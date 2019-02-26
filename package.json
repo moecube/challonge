@@ -1,7 +1,7 @@
 {
   "name": "challonge",
   "description": "Wrapper for the challong api",
-  "author": "Aaron Tiwell <aaron.tidwell@gmail.com>",
+  "author": "Nanahira <78877@qq.com>",
   "main": "./lib/challonge.js",
   "version": "2.2.0",
   "contributors": [
@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tidwell/node-challonge"
+    "url": "https://github.com/moecube/challonge"
   },
   "bugs": {
-    "url": "https://github.com/Tidwell/node-challonge/issues"
+    "url": "https://github.com/moecube/challonge/issues"
   },
-  "homepage": "https://github.com/Tidwell/node-challonge#README",
+  "homepage": "https://github.com/moecube/challonge#README",
   "keywords": [
     "challonge",
     "api-wrapper",
